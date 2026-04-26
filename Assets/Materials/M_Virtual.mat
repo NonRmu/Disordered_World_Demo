@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Virtual
+  m_Shader: {fileID: 4800000, guid: 291d43f9d2ebc13429b4074944202c6b, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _CharTex:
+        m_Texture: {fileID: 2800000, guid: aae85bfd05dc3294484fc5e49dacebfa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaClip: 0.5
+    - _CellPixelSizeX: 10
+    - _CellPixelSizeY: 18
+    - _CharCount: 11
+    - _EdgeStrength: 0.25
+    - _EdgeThreshold: 0.15
+    - _FillCharCount: 7
+    - _FlickerStrength: 0.07
+    - _GlowStrength: 2
+    - _JitterStrength: 0.052
+    - _StrongEdgeThreshold: 0.16
+    m_Colors:
+    - _GlowColor: {r: 0.65, g: 1, b: 0.85, a: 1}
+    - _Tint: {r: 0.85, g: 1, b: 0.9, a: 1}
+  m_BuildTextureStacks: []

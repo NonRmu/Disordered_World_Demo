@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_Projection_Invalid_Transparent
+  m_Shader: {fileID: 4800000, guid: 401fb7ffc7af400468065156229f50e1, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _RANDOMIZEFILL_ON
+  - _SHOWBACKGROUND_ON
+  - _USEPERSISTENCEMOTION_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AsciiMaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CharTex:
+        m_Texture: {fileID: 2800000, guid: aae85bfd05dc3294484fc5e49dacebfa, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - _AlphaClip: 0.5
+    - _BackgroundOpacity: 1
+    - _CellPixelSizeX: 10
+    - _CellPixelSizeY: 12
+    - _CharCount: 11
+    - _ContourBands: 4
+    - _ContourMaxSteps: 2.5
+    - _ContourStepPixels: 1
+    - _EdgeCharOpacity: 1
+    - _EdgeStrength: 1.2
+    - _EdgeThreshold: 0.541
+    - _FillCharCount: 7
+    - _FlickerSpatialFrequency: 0.4
+    - _FlickerSpeed: 18
+    - _FlickerStrength: 0
+    - _GlowStrength: 0
+    - _InteriorBaseOpacity: 0.35
+    - _InteriorCharOpacity: 1
+    - _InteriorVisibility: 0.85
+    - _JitterStrength: 0.5
+    - _MinVisibleFillIndex: 1
+    - _MotionAffectInteriorOnly: 1
+    - _MotionBlendStrength: 2
+    - _MotionDragStrength: 1
+    - _MotionFillWeight: 2
+    - _MotionSpeedScale: 0.01
+    - _MotionThreshold: 0
+    - _ObjectMotionSpeed: 0
+    - _PersistenceAffectInteriorOnly: 1
+    - _PersistenceGlowMultiplier: 1.5
+    - _PersistenceInteriorOpacity: 0.25
+    - _PersistenceMotionMultiplier: 2
+    - _PersistenceRandomBoost: 0.25
+    - _PersistenceSearchPixels: 3
+    - _PersistenceStrength: 3
+    - _RandomFillStrength: 1
+    - _RandomizeFill: 1
+    - _ShowBackground: 1
+    - _StaticFillWeight: 1
+    - _UseContourFill: 1
+    - _UsePersistence: 0
+    - _UsePersistenceMotion: 1
+    - _ZTest: 4
+    m_Colors:
+    - _FlickerDirection: {r: 1, g: 0, b: 0, a: 0}
+    - _GlowColor: {r: 1, g: 1, b: 1, a: 1}
+    - _ObjectMotionDir: {r: 0, g: 0, b: 0, a: 0}
+    - _Tint: {r: 1, g: 0, b: 0, a: 1}
+  m_BuildTextureStacks: []
